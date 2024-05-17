@@ -1,4 +1,4 @@
-# Images Size
+# Images
 
 ### Before
 
