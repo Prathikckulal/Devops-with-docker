@@ -1,22 +1,22 @@
-# Images Size
+# Images
 
 The original Dockerfile is from exercise 1.15.
 
-### Before
+# Before
 
 ```
 REPOSITORY               TAG           IMAGE ID       CREATED         SIZE
 timestamp-microservice   latest        47bb3157c602   2 minutes ago   138MB
 ```
 
-### After
+# After
 
 ```
 REPOSITORY               TAG           IMAGE ID       CREATED         SIZE
 timestamp-microservice   latest        84371882bc13   2 minutes ago   119MB
 ```
 
-## Installation
+# Install
 
 1. Clone the repo
    ```bash
