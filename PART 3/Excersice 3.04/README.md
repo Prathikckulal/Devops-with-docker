@@ -1,4 +1,4 @@
-# Images Size
+# Images
 
 ```
 REPOSITORY         TAG           IMAGE ID       CREATED          SIZE
