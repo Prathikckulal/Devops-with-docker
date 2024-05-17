@@ -1,0 +1,1 @@
+$ docker run -p 7089:7089 devopsdockeruh/simple-web-service server
